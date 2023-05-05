@@ -1,0 +1,1 @@
+docker build -f Dockerfile-slim . -t xkzbar-slim:v0
